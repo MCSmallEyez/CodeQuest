@@ -10,8 +10,4 @@ public class SumItUp{
 
         return sum;
     }
-
-    public static void main(String args[]) {
-        System.out.print( sum(5, 6) );
-    }
 }
